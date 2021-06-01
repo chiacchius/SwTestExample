@@ -3,4 +3,4 @@ sudo: false
 jdk:
   - openjdk11
 script:
- - mvn install 
+ - mvn clean install 
