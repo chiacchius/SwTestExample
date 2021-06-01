@@ -2,6 +2,6 @@ language: java
 sudo: false
 os: osx
 jdk:
-  - openjdk11
+  - openjdk15
 script:
  - mvn clean install 
